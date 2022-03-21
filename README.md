@@ -10,4 +10,3 @@ Run `npm run` for a dev server. Navigate to `http://localhost:4200/`. The app wi
 Run `npm run server` to run the json server port 5000
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
-Angular Project learned from tutorial
