@@ -1,4 +1,5 @@
-# Angular Sample Project Reminder Tracker 
+# Angular Crash Course from Traversy Media: Reminder Tracker 
+
 Run `npm install` first before starting it 
 
 ## Development server
